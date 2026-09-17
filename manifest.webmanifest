@@ -1,0 +1,10 @@
+{
+  "name": "Meu Dinheiro na Roça",
+  "short_name": "Dinheiro Roça",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#F7F2E4",
+  "theme_color": "#2B3B2F",
+  "orientation": "portrait",
+  "icons": []
+}
